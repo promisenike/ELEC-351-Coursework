@@ -1,0 +1,13 @@
+{
+  "name": "PlymouthUniversityModuleSupportBoard",
+  "keywords": "mbed, plymouth, university, msb",
+  "description": "Library for The module Support Board",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PlymouthUniversityEEER/PlymouthUniversityModuleSupportBoard"
+  },
+  "version": "1.0.1",
+  "license": "MIT",
+  "frameworks": "mbed",
+  "platforms": "*"
+}
